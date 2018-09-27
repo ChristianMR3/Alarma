@@ -87,10 +87,10 @@ void loop() {
     digitalWrite(ledrojo, HIGH);
     digitalWrite(buzzer, HIGH);
     tone(3, 698.46, 600);  // fa 5 Lanza señal a 698.46Hz por el pin 3 durante 600ms.
-    digitalWrite(ledrojo, LOW);
+    //digitalWrite(ledrojo, LOW);
     delay(550);
     tone(3, 932.33, 500);  //  la# 5 Lanza señal a 932.33Hz por el pin 3 durante 600ms.
-    digitalWrite(ledrojo, HIGH);
+    //digitalWrite(ledrojo, HIGH);
     delay(550);
   }
 
