@@ -34,7 +34,7 @@ Material
 
 5.- 2 Leds(verde, rojo)
 
-6.- Resistencias(220 ohms, 10k)
+6.- Resistencias(220 ohms)
 
 7.- Reed switch
 8.- teclado matricial
